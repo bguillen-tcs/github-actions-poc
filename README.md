@@ -8,4 +8,6 @@ It's pretty pointless, but the point is to just start with a small example to pu
 
 Given all the above, below, you'll see "_Commit N_".  This is where I'll add content to the README, in order to practice triggering the workflow more than once.
 
-## Commits
+## Trigger History
+
+* Commit 1 (first time attempting to trigger the workflow)
