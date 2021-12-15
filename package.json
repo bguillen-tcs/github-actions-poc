@@ -1,0 +1,17 @@
+{
+  "name": "@bguillen-tcs/github-actions-poc",
+  "version": "1.0.0",
+  "description": "Simple POC to get more familiar with GitHub Actions.  The goal with this POC is to create a simple workflow that runs one job, printing out `node` and `npm` versions.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bguillen-tcs/github-actions-poc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bguillen-tcs/github-actions-poc/issues"
+  },
+  "homepage": "https://github.com/bguillen-tcs/github-actions-poc#readme"
+}
